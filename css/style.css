@@ -1,0 +1,109 @@
+
+
+.navbar .container a:hover{
+    background-color:orange;
+}
+
+
+
+#main-header{
+    background-color: black;
+}
+
+   #arrow{
+       padding-left:600px;
+   }
+
+   #newproject {
+       background-color: rgb(141,198,63);
+       width:100%; 
+       height:250px; 
+       /* border: 2px solid red; */
+   }
+
+   #newproject .card-title{
+       margin-left:350px; 
+       margin-top: 20PX;
+       font-size: 40px;
+       color: white;
+   }
+
+
+   /* -------------------------------Last Contact---------------------------------- */
+   #lastcontact {
+    background-color: rgb(141,198,63);
+    color: white;
+    font-size: small;
+
+   }
+
+   #lastcontact img {
+       margin-top: 35px;
+       margin-left: 30px;
+   }
+
+   #lastcontact p {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    line-height: 15px;
+    margin-bottom: 0px;
+   }
+
+   #services{
+    border-right:2px solid rgb(127, 255, 0.7);
+    padding-left: 0px;
+    
+   }
+
+   #services h6{
+       margin-top: 35px ;
+       margin-left: 40px;
+   }
+
+   #services li{
+       text-decoration: underline;
+       list-style:none;
+       
+   }
+
+   #useful-links{
+    border-right:2px solid rgb(1, 255, 170);
+    padding-left: 0px;
+    
+   }
+
+   #useful-links h6{
+       margin-top: 35px ;
+       margin-left: 40px;
+   }
+
+   #useful-links li{
+       text-decoration: underline;
+       list-style:none;
+   }
+
+   #contacts{
+    padding-left: 20px;
+   }
+
+   #contacts h6{
+    margin-top: 35px ;
+    margin-left: 40px;
+   }   
+
+   #contacts-links {
+    margin-left: 35px;
+    margin-bottom: 35px;
+    
+}
+
+   /*--------------------------------------Web Design Packages-------------------------------  */
+
+      
+   #design-packages .card-group p{
+    font-size: small;
+    line-height: 9px;
+    
+}
+
